@@ -1,89 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ana Perri's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ana Caroline Perri Romagna
+Business Analytics Student | Data & Operations Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ana.caroline.perri.romagna@gmail.com">ana.caroline.perri.romagna@gmail.com</a> 
+| <a href="http://www.linkedin.com/in/ana-perri">LinkedIn</a> 
+| <a href="tel:+12085716755">+1 (208) 571-6755</a>
 </div>
 
 
 ## Currently
-
-Standing on the shoulders of giants
+Business Analytics student at Brigham Young University–Idaho, developing expertise in analytics, supply chain, and business intelligence.
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data analytics, process improvement, dashboard development, CRM analytics, business intelligence, and supply chain insights.
 
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Sales analytics, customer segmentation, forecasting, supply chain optimization, retail operations, automation, and cross-functional reporting.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`July 2022 – July 2026`  
+__Brigham Young University–Idaho__, Rexburg, ID  
+Business Analytics (BS)  
+- Areas of Interest: Data Analytics, Supply Chain Management, Logistics Management
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+`September 2025 – Present`  
+__Business Operations Analyst Intern__, Makai Fruits (Remote/Rexburg, ID)  
+- Built dynamic Power BI dashboards integrating CRM and sales data, reducing manual reporting time by 60% and enabling real-time visibility into performance.  
+- Developed customer segmentation and recency–frequency models that improved sales follow-up efficiency by 35% and increased recurring revenue opportunities.  
+- Translated sales trends into actionable insights, improving forecasting accuracy and supporting strategic decisions across departments.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`January 2025 – April 2025`  
+__Project Consultant – Sales Reporting & Analytics__, EaglePros Lawn Care Services, Rexburg, ID  
+- Boosted lead engagement by 30% through dashboards highlighting high-potential leads and optimizing team outreach.  
+- Eliminated 90% of manual reporting time by building an automated Excel tool that became the company’s primary system for tracking leads and sales KPIs.
 
-- Fellow
+`September 2024 – December 2024`  
+__Assistant Store Manager – Administration__, Gaucho's Supermarket, Manaus, Brazil  
+- Built 3 automated visual models in Excel and Power BI, improving decision-making efficiency across departments by 25%.  
+- Redesigned and automated inventory control systems, reducing stock discrepancies across 4 departments.  
+- Managed inventory operations using analytics to ensure accuracy and availability, increasing reliability by 15%.
 
+`September 2022 – December 2022`  
+__Company Leader – Finance (CEO)__, Cookie Jar (Integrated Business Core), Rexburg, ID  
+- Co-founded a 19-student startup selling cookie mix jars, contributing to marketing, operations, and strategy.  
+- As CEO, implemented a new business model that increased revenue by 30% during a 35% decline.  
+- Designed new marketing strategies that resulted in a 58% sales increase and the highest performance of the semester.
 
+## Achievements
 
-## Awards
+`2025`  
+Winner – **Melaleuca Case Competition**  
+- Created and pitched a high-ROI market expansion strategy to Melaleuca executives, identifying opportunities in an $85B+ wellness industry supported by market research and financial modeling.
 
-`2012`
-President, *Royal Society*, London, UK
+`2022–2026`  
+**BYU-I Grant Scholarship**  
+- Awarded for academic excellence.
 
-Associate, *French Academy of Science*, Paris, France
+## Skills
 
+- **Data Analysis:** Excel, Python, R, SQL, VBA, AI prompt engineering  
+- **Business Intelligence:** Power BI, Tableau, DAX  
+- **Soft Skills:** Problem-solving, proactivity, leadership, teamwork, collaboration  
+- **Languages:** Portuguese (native), Japanese, Spanish  
+- **Other:** Microsoft Office proficiency
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
