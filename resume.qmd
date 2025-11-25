@@ -7,9 +7,9 @@ title: Ana Perri's CV
 Business Analytics Student | Data & Operations Analyst
 
 <div id="webaddress">
-<a href="mailto:ana.caroline.perri.romagna@gmail.com">ana.caroline.perri.romagna@gmail.com</a> 
+
 | <a href="http://www.linkedin.com/in/ana-perri">LinkedIn</a> 
-| <a href="tel:+12085716755">+1 (208) 571-6755</a>
+
 </div>
 
 
